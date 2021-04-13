@@ -1,0 +1,6 @@
+include ':mylatte-ec'
+include ':mylatte-core'
+include ':mylatte-compiler'
+include ':mylatte-annotations'
+include ':example'
+rootProject.name = "MyFestEC"
